@@ -1,4 +1,4 @@
-# HirePulse — Enterprise Full-Stack Job Portal Web Application
+# CareerSync — Enterprise Full-Stack Job Portal Web Application
 
 HirePulse is a modern, responsive, full-stack Job Portal web application connecting **Job Candidates**, **Corporate Recruiters**, **Companies**, and **System Administrators**. Built using **React.js**, **Spring Boot 3**, **Spring Security**, **JWT Authentication**, **Spring Data JPA**, and **PostgreSQL**.
 
